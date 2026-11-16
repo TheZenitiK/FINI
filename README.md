@@ -54,10 +54,10 @@ The app guarantees complete privacy for your network activity and **collects zer
 
 ### Supported Protocols
 
-| Protocol |
+| Protocol | Status |
 | :--- | :--- |
-| **VLESS (Reality)** |
-| **VMess** |
-| **Trojan** |
-| **Shadowsocks** |
-| **Socks** |
+| **VLESS (Reality)** | Supported |
+| **VMess** | Supported |
+| **Trojan** | Supported |
+| **Shadowsocks** | Supported |
+| **Socks** | Supported |
