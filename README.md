@@ -30,11 +30,11 @@
 * **Управление ядрами** — быстрая и гибкая смена версий ядра Xray.
 
 ### Поддерживаемые протоколы
-* **VLESS** (Reality)
-* **VMess**
-* **Trojan**
-* **Shadowsocks**
-* **Socks**
+VLESS (Reality)  
+VMess  
+Trojan  
+Shadowsocks  
+Socks  
 
 ---
 
@@ -51,9 +51,8 @@ The app guarantees complete privacy for your network activity and **collects zer
 * **Core Management** — seamless and flexible switching of Xray core versions.
 
 ### Supported Protocols
-* **VLESS** (Reality)
-* **VMess**
-* **Trojan**
-* **Shadowsocks**
-* **Socks**
-* 
+VLESS (Reality)  
+VMess  
+Trojan  
+Shadowsocks  
+Socks  
