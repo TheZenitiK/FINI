@@ -5,11 +5,11 @@
 # FINI
 
 <p>
-  <a href="#русский">
-    <img src="https://img.shields.io/badge/Язык-Русский-18181B?style=for-the-badge" alt="Русский">
+  <a href="#ru">
+    <img src="https://img.shields.io/badge/Русский-18181B?style=for-the-badge" alt="Русский">
   </a>
-  <a href="#english">
-    <img src="https://img.shields.io/badge/Language-English-27272A?style=for-the-badge" alt="English">
+  <a href="#en">
+    <img src="https://img.shields.io/badge/English-27272A?style=for-the-badge" alt="English">
   </a>
 </p>
 
@@ -17,52 +17,46 @@
 
 ---
 
-<a name="русский"></a>
-## Русский
+<a name="ru"></a>
 
-> **FINI** — это мобильное приложение с открытым исходным кодом для управления прокси-серверами, работающее на базе ядра **Xray**. Приложение сочетает в себе минималистичный, интуитивно понятный интерфейс и продвинутый функционал.
+> **FINI** — мобильное приложение с открытым исходным кодом для управления прокси-серверами на базе ядра **Xray**. Сочетает в себе минималистичный, интуитивно понятный интерфейс и продвинутый сетевой функционал.
 
 ### Конфиденциальность
-FINI гарантирует полную приватность вашей сетевой активности: **приложение не собирает никаких данных**. Вся информация остается исключительно на вашем устройстве и никогда не передается на внешние серверы.
+Приложение гарантирует полную приватность вашей сетевой активности и **не собирает никаких данных**. Вся информация остается исключительно на устройстве и никогда не передается на внешние серверы.
 
 ### Ключевые особенности
-
-* **Гибкая маршрутизация** — точная настройка прокси-серверов на основе пользовательских правил.
+* **Гибкая маршрутизация** — настройка прокси-серверов на основе пользовательских правил.
 * **Современный дизайн** — интерфейс с поддержкой Material You и динамических цветовых акцентов.
-* **Управление ядрами** — быстрая и гибкая смена версий ядра Xray прямо в приложении.
+* **Управление ядрами** — быстрая и гибкая смена версий ядра Xray.
 
-### Поддерживаемые протоколы
-
-| Протокол | Статус |
-| :--- | :--- |
-| **VLESS (Reality)** | Поддерживается |
-| **VMess** | Поддерживается |
-| **Trojan** | Поддерживается |
-| **Shadowsocks** | Поддерживается |
-| **Socks** | Поддерживается |
+### Протоколы
+<p>
+  <img src="https://img.shields.io/badge/VLESS_(Reality)-18181B?style=flat-square" alt="VLESS Reality">
+  <img src="https://img.shields.io/badge/VMess-18181B?style=flat-square" alt="VMess">
+  <img src="https://img.shields.io/badge/Trojan-18181B?style=flat-square" alt="Trojan">
+  <img src="https://img.shields.io/badge/Shadowsocks-18181B?style=flat-square" alt="Shadowsocks">
+  <img src="https://img.shields.io/badge/Socks-18181B?style=flat-square" alt="Socks">
+</p>
 
 ---
 
-<a name="english"></a>
-## English
+<a name="en"></a>
 
 > **FINI** is an open-source mobile application for proxy management powered by the **Xray** core. It combines a clean, intuitive interface with advanced networking capabilities.
 
 ### Privacy
-FINI guarantees complete privacy for your network activity: **the app collects zero data**. All your configurations and traffic information stay exclusively on your device and are never transmitted to external servers.
+The app guarantees complete privacy for your network activity and **collects zero data**. All your configurations and traffic stay exclusively on your device and are never transmitted to external servers.
 
 ### Key Features
-
 * **Flexible Routing** — configure proxy servers using custom rule-based routing.
 * **Modern Design** — sleek interface with full Material You support and dynamic color accents.
 * **Core Management** — seamless and flexible switching of Xray core versions.
 
-### Supported Protocols
-
-| Protocol | Status |
-| :--- | :--- |
-| **VLESS (Reality)** | Supported |
-| **VMess** | Supported |
-| **Trojan** | Supported |
-| **Shadowsocks** | Supported |
-| **Socks** | Supported |
+### Protocols
+<p>
+  <img src="https://img.shields.io/badge/VLESS_(Reality)-18181B?style=flat-square" alt="VLESS Reality">
+  <img src="https://img.shields.io/badge/VMess-18181B?style=flat-square" alt="VMess">
+  <img src="https://img.shields.io/badge/Trojan-18181B?style=flat-square" alt="Trojan">
+  <img src="https://img.shields.io/badge/Shadowsocks-18181B?style=flat-square" alt="Shadowsocks">
+  <img src="https://img.shields.io/badge/Socks-18181B?style=flat-square" alt="Socks">
+</p>
