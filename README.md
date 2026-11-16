@@ -1,59 +1,68 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/23462997-6448-468a-99e8-f2e6ef94d1b2" width="140" height="140" alt="FINI Logo">
+<img src="https://github.com/user-attachments/assets/23462997-6448-468a-99e8-f2e6ef94d1b2" width="130" height="130" alt="FINI Logo">
 
 # FINI
 
-**[ 🇷🇺 Русский ] | [ 🇬🇧 English](#-english)**
+<p>
+  <a href="#русский">
+    <img src="https://img.shields.io/badge/Язык-Русский-18181B?style=for-the-badge" alt="Русский">
+  </a>
+  <a href="#english">
+    <img src="https://img.shields.io/badge/Language-English-27272A?style=for-the-badge" alt="English">
+  </a>
+</p>
 
 </div>
 
 ---
 
-**FINI** — это мобильное приложение с открытым исходным кодом для управления прокси-серверами, работающее на базе мощного ядра **Xray**. Приложение сочетает в себе красивый, интуитивно понятный интерфейс и богатый функционал.
+<a name="русский"></a>
+## Русский
 
-FINI гарантирует абсолютную конфиденциальность вашей сетевой активности: **приложение не собирает никаких данных**. Вся информация остается исключительно на вашем устройстве и никогда не передается на внешние серверы.
+> **FINI** — это мобильное приложение с открытым исходным кодом для управления прокси-серверами, работающее на базе ядра **Xray**. Приложение сочетает в себе минималистичный, интуитивно понятный интерфейс и продвинутый функционал.
 
-### ✨ Ключевые особенности
+### Конфиденциальность
+FINI гарантирует полную приватность вашей сетевой активности: **приложение не собирает никаких данных**. Вся информация остается исключительно на вашем устройстве и никогда не передается на внешние серверы.
 
-* 🚀 **Гибкая маршрутизация** — тонкая настройка прокси-серверов на основе правил.
-* 🎨 **Современный дизайн** — стильный интерфейс с поддержкой Material You и динамических цветовых акцентов.
-* ⚙️ **Смена ядер** — простая и гибкая смена ядер Xray.
-* 🛡️ **Поддерживаемые протоколы**:
-  * `VLESS (Reality)`
-  * `VMess`
-  * `Trojan`
-  * `Shadowsocks`
-  * `Socks`
+### Ключевые особенности
 
----
+* **Гибкая маршрутизация** — точная настройка прокси-серверов на основе пользовательских правил.
+* **Современный дизайн** — интерфейс с поддержкой Material You и динамических цветовых акцентов.
+* **Управление ядрами** — быстрая и гибкая смена версий ядра Xray прямо в приложении.
 
-<div align="center">
+### Поддерживаемые протоколы
 
-# 🇬🇧 English
-
-</div>
-
-
-**FINI** is an open-source mobile application for proxy management powered by the **Xray** core. It features a beautiful, intuitive interface combined with powerful tools.
-
-FINI guarantees complete privacy for your network activity: **the app collects zero data**. All your information stays exclusively on your device and is never sent to external servers.
-
-### ✨ Key Features
-
-* 🚀 **Flexible Routing** — configure proxy servers based on advanced routing rules.
-* 🎨 **Modern Design** — sleek interface with Material You support and color accents.
-* ⚙️ **Core Switching** — flexible management and switching of Xray cores.
-* 🛡️ **Supported Protocols**:
-  * `VLESS (Reality)`
-  * `VMess`
-  * `Trojan`
-  * `Shadowsocks`
-  * `Socks`
+| Протокол | Статус |
+| :--- | :--- |
+| **VLESS (Reality)** | Поддерживается |
+| **VMess** | Поддерживается |
+| **Trojan** | Поддерживается |
+| **Shadowsocks** | Поддерживается |
+| **Socks** | Поддерживается |
 
 ---
 
-<div align="center">
-  <p>Made with ❤️ and Open Source spirit</p>
-</div>
+<a name="english"></a>
+## English
 
+> **FINI** is an open-source mobile application for proxy management powered by the **Xray** core. It combines a clean, intuitive interface with advanced networking capabilities.
+
+### Privacy
+FINI guarantees complete privacy for your network activity: **the app collects zero data**. All your configurations and traffic information stay exclusively on your device and are never transmitted to external servers.
+
+### Key Features
+
+* **Flexible Routing** — configure proxy servers using custom rule-based routing.
+* **Modern Design** — sleek interface with full Material You support and dynamic color accents.
+* **Core Management** — seamless and flexible switching of Xray core versions.
+
+### Supported Protocols
+
+| Protocol | Status |
+| :--- | :--- |
+| **VLESS (Reality)** | Supported |
+| **VMess** | Supported |
+| **Trojan** | Supported |
+| **Shadowsocks** | Supported |
+| **Socks** | Supported |
