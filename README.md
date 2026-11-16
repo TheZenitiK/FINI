@@ -36,6 +36,7 @@
 | Trojan |
 | Shadowsocks |
 | Socks |
+| hysteria2 |
 
 
 ---
@@ -59,3 +60,4 @@ The app guarantees complete privacy for your network activity and **collects zer
 | Trojan |
 | Shadowsocks |
 | Socks |
+| hysteria2 |
