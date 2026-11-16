@@ -52,12 +52,10 @@ The app guarantees complete privacy for your network activity and **collects zer
 * **Modern Design** — sleek interface with full Material You support and dynamic color accents.
 * **Core Management** — seamless and flexible switching of Xray core versions.
 
-### Supported Protocols
-
-| Protocol | Status |
-| :--- | :--- |
-| **VLESS (Reality)** | Supported |
-| **VMess** | Supported |
-| **Trojan** | Supported |
-| **Shadowsocks** | Supported |
-| **Socks** | Supported |
+### Поддерживаемые протоколы
+* VLESS (Reality)
+* VMess
+* Trojan
+* Shadowsocks
+* Socks
+* 
