@@ -29,14 +29,12 @@
 * **Современный дизайн** — интерфейс с поддержкой Material You и динамических цветовых акцентов.
 * **Управление ядрами** — быстрая и гибкая смена версий ядра Xray.
 
-### Протоколы
-<p>
-  <img src="https://img.shields.io/badge/VLESS_(Reality)-18181B?style=flat-square" alt="VLESS Reality">
-  <img src="https://img.shields.io/badge/VMess-18181B?style=flat-square" alt="VMess">
-  <img src="https://img.shields.io/badge/Trojan-18181B?style=flat-square" alt="Trojan">
-  <img src="https://img.shields.io/badge/Shadowsocks-18181B?style=flat-square" alt="Shadowsocks">
-  <img src="https://img.shields.io/badge/Socks-18181B?style=flat-square" alt="Socks">
-</p>
+### Поддерживаемые протоколы
+* **VLESS** (Reality)
+* **VMess**
+* **Trojan**
+* **Shadowsocks**
+* **Socks**
 
 ---
 
@@ -52,11 +50,10 @@ The app guarantees complete privacy for your network activity and **collects zer
 * **Modern Design** — sleek interface with full Material You support and dynamic color accents.
 * **Core Management** — seamless and flexible switching of Xray core versions.
 
-### Protocols
-<p>
-  <img src="https://img.shields.io/badge/VLESS_(Reality)-18181B?style=flat-square" alt="VLESS Reality">
-  <img src="https://img.shields.io/badge/VMess-18181B?style=flat-square" alt="VMess">
-  <img src="https://img.shields.io/badge/Trojan-18181B?style=flat-square" alt="Trojan">
-  <img src="https://img.shields.io/badge/Shadowsocks-18181B?style=flat-square" alt="Shadowsocks">
-  <img src="https://img.shields.io/badge/Socks-18181B?style=flat-square" alt="Socks">
-</p>
+### Supported Protocols
+* **VLESS** (Reality)
+* **VMess**
+* **Trojan**
+* **Shadowsocks**
+* **Socks**
+* 
