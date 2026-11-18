@@ -1,0 +1,6 @@
+{
+  "name": "FINI",
+  "description": "Быстрый и энергоэффективный VPN-клиент на базе Xray с поддержкой VLESS, Reality, XHTTP и Hysteria 2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
