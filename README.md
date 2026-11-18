@@ -36,8 +36,12 @@
 | Trojan |
 | Shadowsocks |
 | Socks |
-| hysteria2 |
+| Hysteria 2 |
 
+| Системные требования |
+| :--- |
+| **Android:** 10 и выше |
+| **Архитектура:** ARM64 |
 
 ---
 
@@ -60,4 +64,9 @@ The app guarantees complete privacy for your network activity and **collects zer
 | Trojan |
 | Shadowsocks |
 | Socks |
-| hysteria2 |
+| Hysteria 2 |
+
+| System Requirements |
+| :--- |
+| **Android:** 10 or later |
+| **Architecture:** ARM64 |
