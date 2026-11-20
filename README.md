@@ -27,7 +27,6 @@
 ### Ключевые особенности
 * **Гибкая маршрутизация** — настройка прокси-серверов на основе пользовательских правил.
 * **Современный дизайн** — интерфейс с поддержкой Material You и динамических цветовых акцентов.
-* **Управление ядрами** — быстрая и гибкая смена версий ядра Xray.
 
 | Поддерживаемые протоколы |
 | :--- |
@@ -55,7 +54,6 @@ The app guarantees complete privacy for your network activity and **collects zer
 ### Key Features
 * **Flexible Routing** — configure proxy servers using custom rule-based routing.
 * **Modern Design** — sleek interface with full Material You support and dynamic color accents.
-* **Core Management** — seamless and flexible switching of Xray core versions.
 
 | Supported Protocols |
 | :--- |
